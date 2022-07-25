@@ -1,2 +1,2 @@
 ![](https://raw.githubusercontent.com/smsegal/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/smsegal/github-stats/master/generated/languages.svg)
