@@ -1,3 +1,2 @@
-
-[![Shane's GIthub Stats Overview](https://github.com/smsegal/github-stats/raw/master/generated/overview.svg)](https://github.com/jstrieb/github-stats.git)
-[![Shanes GitHub Stats Languages](https://github.com/smsegal/github-stats/raw/master/generated/languages.svg)](https://github.com/jstrieb/github-stats.git)
+![](https://raw.githubusercontent.com/smsegal/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
